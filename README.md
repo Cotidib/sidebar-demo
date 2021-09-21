@@ -5,6 +5,7 @@ This is my version of the Sidebar project in ['Code 15 React Projects' course by
 
 ### Overview and Learnings
 
-Main React functionalities I learned: dynamic navigation link, modal implementation and useContext to avoid prop drilling. I made my own setup and styling.
+Main React functionalities I learned: dynamic navigation links, modal implementation and useContext to avoid prop drilling. I made my own setup and styling.
 
 ### Live Site
+https://constanzas-sidebar-demo.netlify.app/
